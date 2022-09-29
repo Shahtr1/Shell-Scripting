@@ -1,7 +1,7 @@
 Vagrant:
 
 ```bash
-    vagrant int jasonc/centos7
+    vagrant init jasonc/centos7
 ```
 
 The first time you run the
